@@ -1,4 +1,3 @@
-import qualified Data.Map as Map
 import LW.Prediction (Topic(..), showScore, getListScore)
 import LW.PredictionParser (parsePredictions)
 
